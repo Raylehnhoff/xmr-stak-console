@@ -10,9 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="xmr-stak-sharp">
-      <HintPath>..\..\xmr-stak-sharp\bin\Debug\netstandard2.0\xmr-stak-sharp.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\xmr-stak-sharp\xmr-stak-sharp.csproj" />
   </ItemGroup>
 
 </Project>

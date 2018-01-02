@@ -1,0 +1,13 @@
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-console.deps.json
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-console.runtimeconfig.json
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-console.runtimeconfig.dev.json
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-console.dll
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-sharp.dll
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-sharp.pdb
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\obj\Debug\netcoreapp2.0\xmr-stak-console.csprojResolveAssemblyReference.cache
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\obj\Debug\netcoreapp2.0\xmr-stak-console.csproj.CoreCompileInputs.cache
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\obj\Debug\netcoreapp2.0\xmr-stak-console.AssemblyInfoInputs.cache
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\obj\Debug\netcoreapp2.0\xmr-stak-console.AssemblyInfo.cs
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\bin\Debug\netcoreapp2.0\xmr-stak-console.pdb
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\obj\Debug\netcoreapp2.0\xmr-stak-console.dll
+H:\Libraries\Documents\GitHub\xmr-stak-console\xmr-stak-console\obj\Debug\netcoreapp2.0\xmr-stak-console.pdb
