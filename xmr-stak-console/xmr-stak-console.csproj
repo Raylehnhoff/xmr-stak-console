@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="106.0.0-alpha0284" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="xmr-stak-sharp">
+      <HintPath>..\..\xmr-stak-sharp\bin\Debug\netstandard2.0\xmr-stak-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
